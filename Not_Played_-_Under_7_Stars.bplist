@@ -3552,6 +3552,7 @@
   "customData": {
     "generator": "Playlist Studio",
     "source": "api.beatleader.xyz",
-    "songCount": 292
+    "songCount": 292,
+    "syncURL": "https://raw.githubusercontent.com/Spanky3651/Synced-Playlist/refs/heads/main/Not_Played_-_Under_7_Stars.bplist"
   }
 }
