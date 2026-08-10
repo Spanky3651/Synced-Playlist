@@ -67,6 +67,10 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        },
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
@@ -853,6 +857,10 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        },
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
@@ -1356,6 +1364,10 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        },
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
@@ -1901,12 +1913,1002 @@
           "name": "Hard"
         }
       ]
+    },
+    {
+      "hash": "64540add6f4fae327d8dfebaa695ffe692b5c1bc",
+      "songName": "THAT'S A JOKE",
+      "levelAuthorName": "FatBeanzoop & muffn",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "hash": "17c3f99f711a5a408a02ab497d8be962b3e7a228",
+      "songName": "The Donk",
+      "levelAuthorName": "xScaramouche & Dat360NoScope",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "6f737e2c408081173d2fee29285c4c207ee18a24",
+      "songName": "The Search",
+      "levelAuthorName": "Phøenix",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "e4423c51f7b3e4771a850ebe43e6f991464105cf",
+      "songName": "Toilet",
+      "levelAuthorName": "Fatalution",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "58ad62206a48b2880685fd12226f41e1c05f2c8f",
+      "songName": "Without U",
+      "levelAuthorName": "Phøenix",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "4f0ef62b9460d5d41bf235ca7abf49a1140c9bae",
+      "songName": "It's Raining Somewhere Else",
+      "levelAuthorName": "Skeelie",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "hash": "d401931f94f9d8dcbe9e5d67e65a246413ed4ebe",
+      "songName": "TRUST!",
+      "levelAuthorName": "Bellus",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "hash": "87d304e51ca46d35f0a9477615f38207cd276d1b",
+      "songName": "Fresh",
+      "levelAuthorName": "DeeDee",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "a09133282a30e0f74d9527de92da4d5f7778f68d",
+      "songName": "Lonely",
+      "levelAuthorName": "xScaramouche",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "18edd433da1cca636c750af20a44b01b45b294c7",
+      "songName": "Orbit",
+      "levelAuthorName": "Tranch",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "ac591863475e6be6463333804a2b4b3e9dffad80",
+      "songName": "Brutal",
+      "levelAuthorName": "ItsVasili",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "77f0ed784a4fb138cce54c40cf01ca006f44a1d4",
+      "songName": "Rampage",
+      "levelAuthorName": "simplymarvellous",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "hash": "55af5c3f06b0ea32bd1a9515fe15e4aae956ab66",
+      "songName": "Bad Side",
+      "levelAuthorName": "steeak & Tsunami_Pro",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "aa4f0db510c1d322240bef7a2a292d3a4f1af57e",
+      "songName": "From The Start",
+      "levelAuthorName": "ben",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "ea532620629cd6b2a0405b7a08cf4e80d8a688cf",
+      "songName": "Solid Ground",
+      "levelAuthorName": "Phøenix",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "5d3290e93807c8b40301adc15ecc4c5ccb50470e",
+      "songName": "The Devil in I",
+      "levelAuthorName": "Contradictions",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "287f0f9cb50ea07ce1e9006a433e16cd2b9f90f6",
+      "songName": "THE DROP",
+      "levelAuthorName": "Teuflum",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "hash": "91f15bae439205a851e8f288de5c0ce6c5a5f09d",
+      "songName": "Monolith",
+      "levelAuthorName": "Schwank vs. Narwhal",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "hash": "8fa51c33b17b646670fcb2c91c70628753d75087",
+      "songName": "Purple hat",
+      "levelAuthorName": "Pleo",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "60a777a5370da2b9d7ac991f5acdba36e4bd295f",
+      "songName": "Popular Monster",
+      "levelAuthorName": "muffn & altrewin",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "hash": "ee363e46c588e94533d375661b33a2789f14d2e9",
+      "songName": "Collapse Of Ego",
+      "levelAuthorName": "Helloiamdaan",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "f6a4584bffd6dd4d47809dd1f8fbf088b6205c45",
+      "songName": "Algorithm",
+      "levelAuthorName": "Pleo",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "4b7cd94d7e276e2bee9a8f3b848fd71a6bc29d51",
+      "songName": "Truth Or Dare",
+      "levelAuthorName": "Slayx",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "7b563e9025de0b1656dc983f7a7577991e921dd3",
+      "songName": "Cloud Nine",
+      "levelAuthorName": "Danny, Lalahti",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "559113d5c4247438c6ecad852c61d03d79396af1",
+      "songName": "Who's Laughing Now",
+      "levelAuthorName": "Teuflum",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "bdf85d5d575a992139eff968a8348b3e6f03eefe",
+      "songName": "Hellcat",
+      "levelAuthorName": "CyanSnow",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "327aba007350c469ce163c5bb0332840ef6c449f",
+      "songName": "THE DEATH OF PEACE OF MIND",
+      "levelAuthorName": "Bytrius",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "02861e7c155fefd133e40a8738a85589392adf7c",
+      "songName": "Gold Rush",
+      "levelAuthorName": "Dereknalox123, Tseska, Taddus & Tpenny68",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "hash": "532d6987004e927b5b54ed2afc9efc20c5970d51",
+      "songName": "Life Will Change",
+      "levelAuthorName": "squeaksies",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "39c57a98472e376ada8f8573c5f4fb4ab5af51d9",
+      "songName": "GIMME DA BLOOD",
+      "levelAuthorName": "Narwhal & Alice",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "bdbf898e75fdff7e0c4bd17780a13fd8722bb6e1",
+      "songName": "Fireside",
+      "levelAuthorName": "Serephor",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "6f95b1ecbb5861b68bdeb6951ee3d5d1680aa8b3",
+      "songName": "Move",
+      "levelAuthorName": "Teuflum",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "hash": "bf6d3f57ea986763325b570b5dfbacc3752c39a8",
+      "songName": "Coin",
+      "levelAuthorName": "accuwucy",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "28a0cb2b37eb71325c9d68a7116f52f3c6104f99",
+      "songName": "FUTURE is Dead",
+      "levelAuthorName": "Voidless & Goob",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "43b8c6ae3128c2060b38905662c85e0884bb98e2",
+      "songName": "Digital Girl",
+      "levelAuthorName": "Skeelie",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "47d574d2274c36b45a63a7b808bcf74b49a0a3ba",
+      "songName": "astrid",
+      "levelAuthorName": "nolan121405",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "d74dae6e94ce55e0c20a6a09ed25f8f05e3bc243",
+      "songName": "Up From The Bottom",
+      "levelAuthorName": "Loloppe",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "0b777de2c3fecd1e6c926ea710735b2647609c29",
+      "songName": "Kabul",
+      "levelAuthorName": "Khenab",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "46f2104ac01aa6f49d72e842a732200fda3a60c3",
+      "songName": "5 minutes of Billie Eilish",
+      "levelAuthorName": "Emilia",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "21a989606d52edf96b2971dbede366b1d0523088",
+      "songName": "Felis",
+      "levelAuthorName": "ComplexFrequency & Checkthepan",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "hash": "865989367d940d9964cc158cac54768676176ea4",
+      "songName": "Fake Love",
+      "levelAuthorName": "bennydabeast",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "db8496fc4efb69701c5aa3a8395942c48242a3d1",
+      "songName": "Accendio",
+      "levelAuthorName": "Jonas_0_0",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "fb2ab52d919b46a353500d60f78b69bcd26c93fc",
+      "songName": "Guess Who Is Back",
+      "levelAuthorName": "carrot",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "7653acaa5a66c6396a4e88ee78090b93cd7aaa1a",
+      "songName": "I Like To Move It (Radio Mix)",
+      "levelAuthorName": "JRE_McNuggies",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "4c2a2ce240210d55042ff95a53d7b4d17afc5f17",
+      "songName": "Towel in the Air",
+      "levelAuthorName": "Tomerisnice",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "hash": "f1a6f656d2a061732b069a80422be6f5c16f30e2",
+      "songName": "Wrecking bar (ra ra ra)",
+      "levelAuthorName": "Walmar",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "1579fb221b2f286a5e3da2b85d9629b3e30aec33",
+      "songName": "MOSHI",
+      "levelAuthorName": "Huh, GalaxyMaster & Gibro",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "hash": "8588fed03f545f0059456e25c6a2ec8eb6036a50",
+      "songName": "ONE SPARK",
+      "levelAuthorName": "Lalahti, FireStrike",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "d9aad56e8293c78ef35022d892769b11a462de11",
+      "songName": "this is what space feels like",
+      "levelAuthorName": "ben",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "58e760690ffb379864d76b06505f4056e84fbe84",
+      "songName": "MAYDAY",
+      "levelAuthorName": "Oddloop, RedMagi & AaltopahWi",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "f3f707a6bb61054c2c11124b0390faaeb685fa58",
+      "songName": "Bad Things",
+      "levelAuthorName": "Bytrius",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "f3e8b3489852fd9707f18f79e55e1f8290108685",
+      "songName": "Girls' Night",
+      "levelAuthorName": "SomeTimothy, vivifromloona",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "58e67b3204a85bc72877e66dc8d9f16d3c873856",
+      "songName": "Senorita",
+      "levelAuthorName": "simplymarvellous",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "44fd0660296e5082a8448046657334b924c36c0d",
+      "songName": "Towa no Yakusoku to Nanika",
+      "levelAuthorName": "ZeCube",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "hash": "PopStars",
+      "songName": "POP/STARS - K/DA [OST Extras]",
+      "levelAuthorName": "Freeek, Rustic, GreatYazer",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "ed1a3273b99d5f0b0cd61a1d42cbe02de11fe0c8",
+      "songName": "Scream",
+      "levelAuthorName": "Serephor, CMP1111, LaidBackAries",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "e09b67881d5dcb2c7064ca0dc6f3799279efa379",
+      "songName": "DIVA",
+      "levelAuthorName": "Spinvvy",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "39a1ea8e809934f5699d894cc434671911a28f69",
+      "songName": "Official",
+      "levelAuthorName": "Jonas_0_0",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "hash": "b3d5ebd465d2e0747276b34d26f5a41850558769",
+      "songName": "STAY",
+      "levelAuthorName": "RFCaps & FatBeanzoop",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "d30db93f2c3c5a152b84ca364a691ef10c4efdb9",
+      "songName": "Merry-Go-Round",
+      "levelAuthorName": "Zelazowa",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "1df70edcaa6b14fbb48b8e7f071d53ea3d4689f7",
+      "songName": "dumb dumb",
+      "levelAuthorName": "August & RaccoonVR",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "c342989ce2bae44a6c93341e77b8af29ea29df37",
+      "songName": "MUKOKU",
+      "levelAuthorName": "chikinbiskit",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "hash": "8ddd394df8a8d20a9cb785b74872fcce99ac7f3b",
+      "songName": "1982",
+      "levelAuthorName": "Brakepie",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "f1bee161eb371ee9d0a93ea012d31b95ea2e8a5c",
+      "songName": "gigolo",
+      "levelAuthorName": "Jonas",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "hash": "1db527a2b8964772c8b2554058dfa0a81bfef1ec",
+      "songName": "this is what heartbreak feels like",
+      "levelAuthorName": "ben",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "6f33249b17710972bf5ddd742c3fa66ce4637bc2",
+      "songName": "it's a seal!",
+      "levelAuthorName": "StrangeSparky",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "76d1ccd986ff1bdc559d226ee269fb8796d7412b",
+      "songName": "BOY",
+      "levelAuthorName": "Bloodcloak",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "28547d0245f0fef153a5f4c96bb3b4f91a9d0ab8",
+      "songName": "Collapse Of Ego",
+      "levelAuthorName": "Helloiamdaan",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "hash": "53e9542794da8e12a01b2b5fd3737674f1b7fbec",
+      "songName": "I Said Meow",
+      "levelAuthorName": "CyanSnow & Pixelguy",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "5069825e81402a20fc194d97d3d5a6091fbd9f81",
+      "songName": "The Unwritten Chapter",
+      "levelAuthorName": "Emilia",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Easy"
+        }
+      ]
+    },
+    {
+      "hash": "992b3a62e7a1ff7e2ce7525ebc5b8935302d3ba4",
+      "songName": "Crisis",
+      "levelAuthorName": "Checkthepan",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "hash": "2a4491c3bbb920c5a620417b80622272222cc228",
+      "songName": "SONG REQUEST",
+      "levelAuthorName": "Cratornugget, Slipknotfan",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "hash": "016117af64952a36ec80ab35b7f71fc5247cf5e7",
+      "songName": "666",
+      "levelAuthorName": "Emilia",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "hash": "0a6bfdfc1cf0f96e514215b18b600b1d4f9d4395",
+      "songName": "NextLevelNation",
+      "levelAuthorName": "Craedien",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "19af73336a1c2fe788ff3df0d93db6e0beaa0640",
+      "songName": "Falling",
+      "levelAuthorName": "nolan121405",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "hash": "417f22a92dc4efb0750a4ea538e45eaf50ce628b",
+      "songName": "Hit The Road Jack",
+      "levelAuthorName": "AlephCubed",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "hash": "21fbb1da30b777383243f1e6d28c765c6159a494",
+      "songName": "Chiyu",
+      "levelAuthorName": "accuwucy, Jonas_0_0",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "63c42ff6c7f69d8f9c94a41e3db068efb244c1c9",
+      "songName": "House on Fire",
+      "levelAuthorName": "Fireluke Gaming",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "58b8e5c6910f72cb21dd74db1d8d43d9d97326c4",
+      "songName": "THE BADDEST",
+      "levelAuthorName": "Darkrealm7",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "f2444f0bffb7d2bab08eb5c457f7a0f53e1e2985",
+      "songName": "Drop That Low (When I Dip)",
+      "levelAuthorName": "Uninstaller",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "8931f3f17f8f5259c076660c986b816d7e86d708",
+      "songName": "House of Memories",
+      "levelAuthorName": "Lekrkoekj",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "b9f34f8477b4183805060b09dfccb9840f647eee",
+      "songName": "Fireflies",
+      "levelAuthorName": "Koreami",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "2d219a8890585f457abb018da09451b08cd98495",
+      "songName": "BLACK LABEL",
+      "levelAuthorName": "Yun0",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "hash": "4a716d59ab416d73461590d2f43d552ea4aa00f8",
+      "songName": "Say So",
+      "levelAuthorName": "Hoppaw",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "c1cb957445c5bd92a8b4fef3a2f9b99a7f775c0f",
+      "songName": "Cinco",
+      "levelAuthorName": "Timbo",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "4b6c9ba4e391967427af8b17c2ac18b329748ed7",
+      "songName": "The Spoils",
+      "levelAuthorName": "Undeceiver",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "8ea907efeb4fb8774c1397076008b11491b937d0",
+      "songName": "A Drowning Cry",
+      "levelAuthorName": "Fatalution",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "dfcc1b1b1d8a6b91b6f1b3fef435dcd7cb63ce7b",
+      "songName": "mr. sunshine",
+      "levelAuthorName": "charlie1epicdude",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "57c92914a2034e8d6725f47f123457de3dccf8c3",
+      "songName": "golden hour",
+      "levelAuthorName": "ben",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "bd44a27d1c94079bfb8e3f3209fd8d69798d6db8",
+      "songName": "Yuck",
+      "levelAuthorName": "August",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
     }
   ],
   "customData": {
     "generator": "Playlist Studio",
     "source": "api.beatleader.xyz",
-    "songCount": 170,
+    "songCount": 260,
     "syncURL": "https://raw.githubusercontent.com/Spanky3651/Synced-Playlist/refs/heads/main/Favorites.bplist"
   }
 }
