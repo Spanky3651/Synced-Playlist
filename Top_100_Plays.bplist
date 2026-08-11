@@ -802,6 +802,7 @@
   "customData": {
     "generator": "Playlist Studio",
     "source": "api.beatleader.xyz",
-    "songCount": 66
+    "songCount": 66,
+    "syncURL": "https://raw.githubusercontent.com/Spanky3651/Synced-Playlist/refs/heads/main/Top_100_Plays.bplist"
   }
 }
